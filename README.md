@@ -12,7 +12,7 @@ Devices can be connected via the following interfaces to the CCU:
 * Homematic IP
 * CUxD
 
-## MQTT
+## MQTT 
 
 As of 0.15.0 the app also supports the connection to the CCU via MQTT. This feature is currently cosidered experimental. The reason it is considered experimental is that it might be required to make some changes on the CCU in future versions of the app which could cause the app not to work until the changes are implemented.
 
